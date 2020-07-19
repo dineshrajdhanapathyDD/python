@@ -1,1 +1,2 @@
-Welcome to tic-tac-toe 
+some concepts and games
+
